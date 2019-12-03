@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EmailServiceApp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: umesh
+Implementation-Vendor-Id: EmailServiceApp
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EmailServiceApp
+Created-By: Maven Integration for Eclipse
+
