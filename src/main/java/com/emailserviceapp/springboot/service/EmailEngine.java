@@ -73,8 +73,7 @@ class EmailEngine {
     
     //insert results into DB
 
-    //String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
-    //String DB_URL = "jdbc:mysql://b3b4c02d2738e8:7839b614@us-cdbr-iron-east-05.cleardb.net/heroku_559832539cfe256?reconnect=true";
+    //String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     String DB_URL = bundle.getString("clearDB.URL");
     
     //  Database credentials
