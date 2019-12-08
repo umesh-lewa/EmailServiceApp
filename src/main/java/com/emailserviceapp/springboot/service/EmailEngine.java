@@ -77,8 +77,6 @@ class EmailEngine {
     String DB_URL = bundle.getString("clearDB.URL");
     
     //  Database credentials
-    //String USER = "b3b4c02d2738e8";
-    //String PASS = "7839b614";
     String USER = bundle.getString("clearDB.USER");
     String PASS = bundle.getString("clearDB.PASSWORD");
     
